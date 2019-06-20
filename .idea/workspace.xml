@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d0bfb73-7675-48e0-b687-9dcb909277d4" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="956045002">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="classpath" value="1" />
+          <entry key="html" value="3" />
+          <entry key="java" value="4" />
+          <entry key="xml" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="Eclipse" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="49" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-459475220">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="css" value="5" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="78" />
+          <entry key="java" value="461" />
+          <entry key="js" value="11" />
+          <entry key="png" value="10" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="11" />
+          <entry key="yml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="78" />
+          <entry key="Image" value="11" />
+          <entry key="JAVA" value="461" />
+          <entry key="JavaScript" value="11" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="11" />
+          <entry key="YAML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="190" />
+          <entry key="java" value="2517" />
+          <entry key="js" value="1" />
+          <entry key="xml" value="21" />
+          <entry key="yml" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="190" />
+          <entry key="JAVA" value="2517" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="21" />
+          <entry key="YAML" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/CustomerReturnListAdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2299">
+              <caret line="148" column="26" selection-start-line="148" selection-start-column="26" selection-end-line="148" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/ReturnListAdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2299">
+              <caret line="148" column="21" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/sale/salereturn.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2489">
+              <caret line="131" column="44" selection-start-line="131" selection-start-column="44" selection-end-line="131" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/purchase/return.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/SaleListAdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Good</find>
+      <find>good</find>
+      <find>商品</find>
+      <find>小锋 老师</find>
+      <find>/**</find>
+      <find>小锋老师</find>
+      <find>format2Bit</find>
+      <find>isNotEmpty</find>
+      <find>/getCustomerReturnNumber</find>
+      <find>formatCode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Drug</replace>
+      <replace>drug</replace>
+      <replace>药品</replace>
+      <replace>/*</replace>
+      <replace />
+      <replace>AT</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\DownThree\Software\total - 副本\src</dir>
+      <dir>E:\DownThree\Software\total - 副本\src\main\java</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/ReturnListRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/RoleMenuRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/RoleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/SaleListDrugsRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/SaleListRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/SupplierRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/UserRoleRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/CustomerReturnListDrugsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/CustomerReturnListService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/DrugsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/DrugsTypeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/DrugsUnitService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/LogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/MenuService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/PurchaseListDrugsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/PurchaseListService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/ReturnListDrugsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/ReturnListService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/RoleMenuService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/RoleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/SaleListDrugsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/SaleListService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/SupplierService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/UserRoleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/DrawImageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/repository/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/CustomerAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/DrugsAdminContrller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/DrugsTypeAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/DrugsUnitAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/LogAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/RoleAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/SupplierAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/UserAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/realm/MyRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/PurchaseListAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/ReturnListAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/SaleListAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/util/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/util/MathUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sale/returnSearch.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/CustomerReturnListAdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/sale/salereturn.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="drug" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="drug" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="drug" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="drug" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="spring-boot" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="40" />
+    <option name="width" value="1624" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JXC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="total - 副本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JXC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="total - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JXC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="total - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JXC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="total - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JXC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="total - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java1234" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557908426669" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../total - 副本 - 副本" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.java1234.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DownThree\Software\total - 副本\src\main\webapp\static\jquery-easyui-1.3.3\themes\usericons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JxcApplication">
+    <configuration name="CustomerReturnListDrugsServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JXC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java1234.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java1234" />
+      <option name="MAIN_CLASS_NAME" value="com.java1234.CustomerReturnListDrugsServiceImplTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerReturnListDrugsServiceImplTest.list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JXC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java1234.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java1234" />
+      <option name="MAIN_CLASS_NAME" value="com.java1234.CustomerReturnListDrugsServiceImplTest" />
+      <option name="METHOD_NAME" value="list" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerReturnListServiceImplTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JXC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java1234.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java1234" />
+      <option name="MAIN_CLASS_NAME" value="com.java1234.CustomerReturnListServiceImplTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerReturnListServiceImplTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JXC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java1234.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java1234" />
+      <option name="MAIN_CLASS_NAME" value="com.java1234.CustomerReturnListServiceImplTest" />
+      <option name="METHOD_NAME" value="findById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerReturnListServiceImplTest.list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JXC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java1234.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java1234" />
+      <option name="MAIN_CLASS_NAME" value="com.java1234.CustomerReturnListServiceImplTest" />
+      <option name="METHOD_NAME" value="list" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JxcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="JXC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java1234.JxcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.JxcApplication" />
+      <item itemvalue="JUnit.CustomerReturnListDrugsServiceImplTest" />
+      <item itemvalue="JUnit.CustomerReturnListDrugsServiceImplTest.list" />
+      <item itemvalue="JUnit.CustomerReturnListServiceImplTest.delete" />
+      <item itemvalue="JUnit.CustomerReturnListServiceImplTest.findById" />
+      <item itemvalue="JUnit.CustomerReturnListServiceImplTest.list" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerReturnListDrugsServiceImplTest" />
+        <item itemvalue="JUnit.CustomerReturnListServiceImplTest.list" />
+        <item itemvalue="JUnit.CustomerReturnListServiceImplTest.delete" />
+        <item itemvalue="JUnit.CustomerReturnListServiceImplTest.findById" />
+        <item itemvalue="JUnit.CustomerReturnListDrugsServiceImplTest.list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d0bfb73-7675-48e0-b687-9dcb909277d4" name="默认" comment="" />
+      <created>1556610589505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556610589505</updated>
+      <workItem from="1556610593556" duration="63000" />
+      <workItem from="1556610853483" duration="96000" />
+      <workItem from="1556610961926" duration="3000" />
+      <workItem from="1556611033910" duration="191000" />
+      <workItem from="1556611564996" duration="767000" />
+      <workItem from="1556612459865" duration="4778000" />
+      <workItem from="1556814155697" duration="725000" />
+      <workItem from="1556815012973" duration="837000" />
+      <workItem from="1556843420525" duration="1062000" />
+      <workItem from="1556846082501" duration="15782000" />
+      <workItem from="1556872543453" duration="2611000" />
+      <workItem from="1556875933512" duration="16695000" />
+      <workItem from="1556936137369" duration="4275000" />
+      <workItem from="1556979587876" duration="1511000" />
+      <workItem from="1556990759578" duration="3746000" />
+      <workItem from="1557041447650" duration="6316000" />
+      <workItem from="1557060371981" duration="18000" />
+      <workItem from="1557302575706" duration="9000" />
+      <workItem from="1557588836848" duration="360000" />
+      <workItem from="1557748625622" duration="5211000" />
+      <workItem from="1557759100430" duration="3422000" />
+      <workItem from="1557819669413" duration="3011000" />
+      <workItem from="1557832510760" duration="5447000" />
+      <workItem from="1557844687365" duration="420000" />
+      <workItem from="1557845142004" duration="12246000" />
+      <workItem from="1557857435445" duration="3212000" />
+      <workItem from="1557864948007" duration="1012000" />
+      <workItem from="1557878037368" duration="7017000" />
+      <workItem from="1557886268926" duration="1134000" />
+      <workItem from="1557887577165" duration="10000" />
+      <workItem from="1557888039002" duration="12754000" />
+      <workItem from="1557908620347" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomerReturnListServiceImplTest_delete - 2019.05.15 at 02h 21m 55s.xml">
+      <configuration name="CustomerReturnListServiceImplTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListServiceImplTest_findById - 2019.05.15 at 02h 22m 14s.xml">
+      <configuration name="CustomerReturnListServiceImplTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListServiceImplTest_delete - 2019.05.15 at 02h 22m 24s.xml">
+      <configuration name="CustomerReturnListServiceImplTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListServiceImplTest_findById - 2019.05.15 at 02h 23m 35s.xml">
+      <configuration name="CustomerReturnListServiceImplTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListDrugsServiceImplTest - 2019.05.15 at 02h 25m 53s.xml">
+      <configuration name="CustomerReturnListDrugsServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListServiceImplTest_delete - 2019.05.15 at 02h 26m 29s.xml">
+      <configuration name="CustomerReturnListServiceImplTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListServiceImplTest_list - 2019.05.15 at 02h 29m 12s.xml">
+      <configuration name="CustomerReturnListServiceImplTest.list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListDrugsServiceImplTest - 2019.05.15 at 02h 29m 39s.xml">
+      <configuration name="CustomerReturnListDrugsServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListDrugsServiceImplTest - 2019.05.15 at 02h 34m 26s.xml">
+      <configuration name="CustomerReturnListDrugsServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerReturnListDrugsServiceImplTest - 2019.05.15 at 03h 07m 19s.xml">
+      <configuration name="CustomerReturnListDrugsServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115027000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="32" width="1299" height="882" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29492345" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="设计器" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.676" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="调试" order="14" weight="0.264" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="调色板" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.24329759" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/UserRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/CustomerReturnListDrugsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/CustomerReturnListServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/DrugsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/LogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/ReturnListDrugsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/repository/CustomerReturnListRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/JxcApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/repository/DrugsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/repository/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/PurchaseListDrugsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java1234/CustomerReturnListDrugsServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/PurchaseListDrugsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/DrugsUnitAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/LogAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/UserAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/SupplierAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/purchase/purchaseSearch.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/purchase/purchase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/PurchaseListServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1112">
+          <caret line="101" column="5" lean-forward="true" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/RoleAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2687">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2356">
+          <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/basicData/customer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/basicData/drugs.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/basicData/goods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9794" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/entity/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/DrugsAdminContrller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3320">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/repository/MenuRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="142" lean-forward="true" selection-start-line="19" selection-start-column="142" selection-end-line="19" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/util/MathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/DrugsTypeAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="96" column="49" lean-forward="true" selection-start-line="96" selection-start-column="49" selection-end-line="96" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/service/impl/MenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="133" column="34" selection-start-line="133" selection-start-column="34" selection-end-line="133" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/util/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="30" column="80" lean-forward="true" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/PurchaseListAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="119" column="70" lean-forward="true" selection-start-line="119" selection-start-column="70" selection-end-line="119" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/CustomerAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="75" column="55" lean-forward="true" selection-start-line="75" selection-start-column="55" selection-end-line="75" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/DrawImageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="66" column="15" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/realm/MyRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sale/returnSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sale/saleSearch.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/CustomerReturnListAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="148" column="26" selection-start-line="148" selection-start-column="26" selection-end-line="148" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/ReturnListAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="148" column="21" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/sale/salereturn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2489">
+          <caret line="131" column="44" selection-start-line="131" selection-start-column="44" selection-end-line="131" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1234/controller/admin/SaleListAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/purchase/return.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JXC:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JXC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
